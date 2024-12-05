@@ -1,5 +1,7 @@
-#AI & Games
-This project was implemented as part of the postgraduate studies in Computational Intelligence and Digital Media. The objectives were as follows:  Particle-Systems-and-Rigid-Body-Simulation-in-Unity
+# AI & Games
+
+This project was implemented as part of the postgraduate studies in Computational Intelligence and Digital Media. 
+The objectives were as follows:  Particle-Systems-and-Rigid-Body-Simulation-in-Unity
 
 
 PART-A
